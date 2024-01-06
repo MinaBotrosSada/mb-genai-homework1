@@ -62,7 +62,7 @@ def run():
             "top_k": 40, 
             "top_p": 0.8
         }
-        model = TextGenerationModel.from_pretrained("text-bison")
+        model = TextGenerationModel.from_pretrained("text-bison@001")
 
          # Load the model            
         list_of_articles = fetchRSS(title, 10)
