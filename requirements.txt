@@ -1,8 +1,3 @@
-altair
-numpy
-pandas
-pydeck
-streamlit
 feedparser==6.0.11
 beautifulsoup4==4.12.2
 google==3.0.0
@@ -14,3 +9,8 @@ google-auth-oauthlib==1.0.0
 google-cloud-aiplatform==1.39.0
 markdown-it-py==2.2.0
 markdown2==2.4.9
+altair
+numpy
+pandas
+pydeck
+streamlit
